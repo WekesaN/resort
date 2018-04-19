@@ -8,3 +8,8 @@ body{
 .new a{
   color: #912102;
 }
+@media screen and (min-width: 280px){
+  background-color: solid pink;
+
+
+}
