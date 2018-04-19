@@ -9,7 +9,7 @@ body{
   color: #912102;
 }
 @media screen and (min-width: 280px){
+  body{
   background-color: solid pink;
-
-
+  }
 }
