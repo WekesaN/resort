@@ -3,10 +3,8 @@ h1{
   font-family: fantasy;
 }
 body{
-  background-color: #009020;
+  background-color: green;
 }
-a{
-  font-size:  20px;
-  float: left;
-  padding: 5px;
+.new a{
+  color: #912102;
 }
